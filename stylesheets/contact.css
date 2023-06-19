@@ -1,0 +1,17 @@
+.contact-info__block {
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.contact-info__item {
+    margin-bottom: 10px;
+}
+
+.contact-info__label {
+    font-weight: bold;
+}
+
+.contact-info__value {
+    margin-left: 10px;
+}
